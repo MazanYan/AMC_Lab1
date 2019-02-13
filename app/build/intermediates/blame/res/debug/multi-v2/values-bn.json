@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yan/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+            "outputFile": "/home/yan/AndroidStudioProjects/AMC_Lab1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/home/yan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6ade771a7c9e8d5239ab2221ac4edc88/res/values-bn/values-bn.xml",
